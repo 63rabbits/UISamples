@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "c5L-jJ-nPk"; */
+"c5L-jJ-nPk.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; iUO-xm-IKO.segmentTitles[0] = "First"; ObjectID = "iUO-xm-IKO"; */
+"iUO-xm-IKO.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; iUO-xm-IKO.segmentTitles[1] = "Second"; ObjectID = "iUO-xm-IKO"; */
+"iUO-xm-IKO.segmentTitles[1]" = "Second";
+
+/* Class = "UITextField"; placeholder = "Enter any string."; ObjectID = "pD3-hw-Qsw"; */
+"pD3-hw-Qsw.placeholder" = "Enter any string.";
+
+/* Class = "UILabel"; text = "empty"; ObjectID = "tal-ef-zxl"; */
+"tal-ef-zxl.text" = "empty";
